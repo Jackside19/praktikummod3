@@ -1,7 +1,12 @@
-public class KlJjajarg {
+public class Ljajargenjang {
     public static int alas,tinggi;
 
 
+    /**
+     * @param argAlas
+     * @param argTinggi
+     * @return
+     */
     public static int keliling(int argAlas,int argTinggi){
         return argAlas * argTinggi;
     }
